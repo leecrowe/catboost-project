@@ -1,1 +1,1 @@
-# catboost-project
+# A simple project using CatBoost to make predictions.
